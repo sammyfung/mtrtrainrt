@@ -16,7 +16,7 @@ Data Source: https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data
 ## Installation
 
 
-# pip -r requirements.txt
+$ pip -r requirements.txt
 
 
 ## Scraping
